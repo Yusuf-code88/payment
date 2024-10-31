@@ -101,6 +101,7 @@ li a:hover {
                     -webkit-text-fill-color: transparent;
                     margin-top: 50px;
                     font-size: 22.65px;
+                    color: red;
                   }
                   .inf {
                     margin-top: 60px;
@@ -161,5 +162,45 @@ li a:hover {
         padding-bottom: 26px;
        }
     }
-     
-}
+
+     header {
+        position: sticky;
+        top: 0;
+     }
+
+    }
+
+
+
+    #section2 {
+
+        #second-box {
+
+            h2 {
+                font-size: 22.65px;
+                color: #ADA785;
+            }
+
+            h1 {
+                font-size: 59.3px;
+                span {
+                    color:#ADA785 ;
+                }
+            }
+
+            p {
+                color: #E5E5E5;
+            }
+        }
+
+        .thirst-box {
+            
+            h1 {
+                font-size: 22.65px;
+            }
+
+            p {
+                color: #E5E5E5;
+            }
+        }
+    }

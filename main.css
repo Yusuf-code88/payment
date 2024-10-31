@@ -92,6 +92,7 @@ li a:hover {
   -webkit-text-fill-color: transparent;
   margin-top: 50px;
   font-size: 22.65px;
+  color: red;
 }
 .section1 .box1 .inf {
   margin-top: 60px;
@@ -138,6 +139,30 @@ li a:hover {
   border-style: solid;
   width: 420px;
   padding-bottom: 26px;
+}
+.section1 header {
+  position: sticky;
+  top: 0;
+}
+
+#section2 #second-box h2 {
+  font-size: 22.65px;
+  color: #ADA785;
+}
+#section2 #second-box h1 {
+  font-size: 59.3px;
+}
+#section2 #second-box h1 span {
+  color: #ADA785;
+}
+#section2 #second-box p {
+  color: #E5E5E5;
+}
+#section2 .thirst-box h1 {
+  font-size: 22.65px;
+}
+#section2 .thirst-box p {
+  color: #E5E5E5;
 }
 
 /*# sourceMappingURL=main.css.map */
