@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+body {
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    background-color: black;
+    color: white;
+}
+
+header {
+    border-bottom: 1px solid rgba(38, 38, 38, 1);
+}
+
+nav img{
+    display: flex;
+    align-items: center;
+}
+
+li  a {
+   color: white;
+   transition: all 0.3s ease;
+}
+
+li a:hover {
+        background: linear-gradient(63.68deg, #ADA785 0%, #D6D3C2 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+}
+
+.button-box button {
+    width: 175px;
+    height: 44px;
+    border-radius: 60px;
+    border: 1.62px solid ;
+    border-image: linear-gradient(to right,#999999 100%, #141414 100%) 1;
+    border-style: solid;
+    backdrop-filter: blur(22.649999618530273px);
+    box-shadow :-2.62px -1.62px 4.24px 0px #FAFAFA38 inset;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background: linear-gradient(63.68deg, #ADA785 0%, #D6D3C2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 25px;
+}
+
+.section1 { 
+
+    .shell1 {
+        margin-top: 70px;
+    }
+
+    .box1 {
+
+        
+        
+        h1{
+          font-size: 95.95px;
+          font-weight: 300;
+          line-height: 115.14px;
+          letter-spacing: -0.06em;
+          text-align: left;
+
+          span {
+            background: linear-gradient(63.68deg, #ADA785 0%, #D6D3C2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent; 
+          }
+
+                  }
+                  button {
+                    width: 255px;
+                    height: 68px;
+                    border-radius: 60px;
+                    border: 1.62px solid ;
+                    border-image: linear-gradient(to right,#999999 100%, #141414 100%) 1;
+                    border-style: solid;
+                    backdrop-filter: blur(22.649999618530273px);
+                    box-shadow :-2.62px -1.62px 4.24px 0px #FAFAFA38 inset;
+                    border: none;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    gap: 10px;
+                    background: linear-gradient(63.68deg, #ADA785 0%, #D6D3C2 100%);
+                    -webkit-background-clip: text;
+                    -webkit-text-fill-color: transparent;
+                    margin-top: 50px;
+                    font-size: 22.65px;
+                  }
+                  .inf {
+                    margin-top: 60px;
+
+                    .inf1 {
+                        border-bottom: 2.5px solid ;
+                        border-image: linear-gradient(#262626 100%, #ADA785 100%, #262626 100%) 1;
+                        border-style: solid;
+                        width: 420px;
+                    }
+
+                    .inf2 {
+                        border-bottom: 2.5px solid ;
+                        border-image: linear-gradient(#262626 100%, #ADA785 100%, #262626 100%) 1;
+                        border-style: solid;
+                        width: 420px;
+                    }
+
+                    h5 {
+                        font-style: 16px;
+                    }
+                    
+                    p {
+                        color: white;
+                    }
+
+                    h1 {
+                        font-size: 59.3px;
+                        background: linear-gradient(63.68deg, #ADA785 0%, #D6D3C2 100%);
+                    -webkit-background-clip: text;
+                    -webkit-text-fill-color: transparent;
+                    }
+
+                  }
+
+    }
+
+    .in {
+       h1 {
+        font-size: 59.3px;
+        background: linear-gradient(63.68deg, #ADA785 0%, #D6D3C2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+       }
+
+       .inf3 {
+        border-bottom: 2.5px solid ;
+        border-image: linear-gradient(#262626 100%, #ADA785 100%, #262626 100%) 1;
+        border-style: solid;
+        width: 420px;
+       }
+
+       .inf4 {
+        border-bottom: 2.5px solid ;
+        border-image: linear-gradient(#262626 100%, #ADA785 100%, #262626 100%) 1;
+        border-style: solid;
+        width: 420px;
+        padding-bottom: 26px;
+       }
+    }
+     
+}
