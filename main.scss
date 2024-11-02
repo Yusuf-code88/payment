@@ -486,7 +486,36 @@ text-align: left;
             font-size: 16px;
             }
     }
+    #button {
+        width: 260px;
+        height: 54px;
+        border-radius: 60px;
+        border: 1.62px solid ;
+        border-image: linear-gradient(to right,#999999 100%, #141414 100%) 1;
+        border-style: solid;
+        backdrop-filter: blur(22.649999618530273px);
+        box-shadow :-2.62px -1.62px 4.24px 0px #FAFAFA38 inset;
+        border: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        background: linear-gradient(63.68deg, #ADA785 0%, #D6D3C2 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 22.65px;
+        color: red;
+      }
+      
+      #line {
+        width: 320px;
+        border: 1px solid #ADA785;
+        height: 1px;
+      }
+
+
     }
+
 
 
 
