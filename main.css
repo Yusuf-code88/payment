@@ -570,4 +570,59 @@ a {
   padding-bottom: 30px;
 }
 
+#section_2 #input1 input {
+  width: 290px;
+  height: 61px;
+  padding: 16px 24px 16px 16px;
+  gap: 10px;
+  border-radius: 10px;
+  border: 1.62px;
+  background: linear-gradient(200.74deg, rgba(214, 211, 194, 0.2) 0%, rgba(92, 92, 92, 0.14) 100%), linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
+  border: 1.62px solid;
+  border-image-source: linear-gradient(200.74deg, #999999 0%, #141414 100%);
+  backdrop-filter: blur(22.6499996185px);
+  box-shadow: -2.62px -1.62px 4.24px 0px rgba(250, 250, 250, 0.2196078431) inset;
+  color: #ADA785;
+}
+#section_2 #input2 input {
+  width: 400px;
+  height: 61px;
+  padding: 16px 24px 16px 16px;
+  gap: 10px;
+  border-radius: 10px;
+  border: 1.62px;
+  background: linear-gradient(200.74deg, rgba(214, 211, 194, 0.2) 0%, rgba(92, 92, 92, 0.14) 100%), linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
+  border: 1.62px solid;
+  border-image-source: linear-gradient(200.74deg, #999999 0%, #141414 100%);
+  backdrop-filter: blur(22.6499996185px);
+  box-shadow: -2.62px -1.62px 4.24px 0px rgba(250, 250, 250, 0.2196078431) inset;
+  color: #ADA785;
+}
+#section_2 #input input {
+  width: 510px;
+  height: 169px;
+  padding: 16px 24px 16px 16px;
+  gap: 10px;
+  border-radius: 10px;
+  border: 1.62px;
+  background: linear-gradient(200.74deg, rgba(214, 211, 194, 0.2) 0%, rgba(92, 92, 92, 0.14) 100%), linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
+  border: 1.62px solid;
+  border-image-source: linear-gradient(200.74deg, #999999 0%, #141414 100%);
+  backdrop-filter: blur(22.6499996185px);
+  box-shadow: -2.62px -1.62px 4.24px 0px rgba(250, 250, 250, 0.2196078431) inset;
+}
+#section_2 #subit-box button {
+  width: 180px;
+  height: 64px;
+  padding: 16px 24px 16px 24px;
+  gap: 10px;
+  border-radius: 99px;
+  border: 1.62px;
+  background: linear-gradient(200.74deg, rgba(214, 211, 194, 0.2) 0%, rgba(92, 92, 92, 0.14) 100%);
+  border: 1.62px solid;
+  border-image-source: linear-gradient(200.74deg, #999999 0%, #141414 100%) 1;
+  backdrop-filter: blur(22.6499996185px);
+  box-shadow: -2.62px -1.62px 4.24px 0px rgba(250, 250, 250, 0.2196078431) inset;
+}
+
 /*# sourceMappingURL=main.css.map */
